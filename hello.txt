@@ -11,3 +11,4 @@ Hello chen!
 Hello chen!
 Hello chen!
 Hello git!   master-test
+Hello git!  hot-fix test
